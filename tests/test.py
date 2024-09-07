@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 import pytest
 
-# queries to test
+# queries to test - chages are
 q1 = """
         SELECT t1.*, t2.*
         FROM table1 t1
